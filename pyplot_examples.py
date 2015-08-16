@@ -29,7 +29,7 @@ plt.savefig('plot_sin.png')
 #plt.figure(3)
 #plt.plot(x,y,x,z)
 
-#Siquiero las 2 gráficas en una misma figura
+#Si quiero las 4 gráficas en una misma figura
 #plt.figure(4)
 #plt.subplot(221) #2 rows, 2 column, select first one 
 #plt.plot(x,y)
